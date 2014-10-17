@@ -1,0 +1,22 @@
+.header h1{
+    text-align: center;
+    border-bottom: solid 1px #dadada;
+    padding: 12px 0 12px 0;
+}
+.wrapper {max-width:960px; margin:0 auto 0 auto;}
+
+.footer { font-size: 11px; color: #dadada; border-top: solid 1px #dadada; margin:24px 0 0; padding:0; }
+.block {
+    padding: 7px 0;
+}
+a {color: #006633;}
+input[name="submit"] {margin-left: 200px;}
+label {min-width: 200px; display: inline-block;}
+.navigation { float: right; }
+.navigation li{ display: inline-block; border-right:1px solid #dadada; padding: 0 7px 0 7px; line-height: 18px;}
+.navigation li a{ text-decoration: none; line-height: 18px; color: #006633;}
+.navigation li a.active {text-decoration: underline; color: #000;}
+table {min-width: 660px;}
+table td,table th {text-align: left;}
+
+input[type="text"],textarea,select{width: 250px; padding: 3px;}
