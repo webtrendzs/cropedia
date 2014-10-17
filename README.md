@@ -1,5 +1,4 @@
 # cropedia #
-========
 
 Alice is an Agricultural extension worker based in Limuru. As part of her work, she usually holds training session with farmers on different crops. She has a big folder with a library of crop training information that has name of crop, altitude, farming method, time to harvest. Each crop has a number of diseases that a farmer needs to check on.
 
