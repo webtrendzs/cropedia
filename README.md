@@ -1,6 +1,6 @@
-cropedia
+# cropedia #
 ========
 
-# Database structure #
+## Database structure ##
 
 Please find the database structure in assets/sql
