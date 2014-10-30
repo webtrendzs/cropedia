@@ -8,6 +8,10 @@ Alice wants a simple system to digitally manage the above library i..e. enter an
 
 You are tasked with creating the first prototype of the above system in 2 hours.  The system should be in line with MVC (Model – View – Controller) standards. Feel free to use any PHP framework.
 
+#### Framework ####
+
+This is a simple solution based on Code Igniter framework
+
 #### Database structure ####
 
 Please find the database structure in assets/sql
